@@ -1,6 +1,14 @@
-# clone this task in Github
+
+Demo link;
+[click here](https://progrevatask.vercel.app)
+
+
+# Clone this task in Github
 
 ````bash
+https://github.com/vishnuu5/Progreva
+cd project name
+```
 
 
 # installation setup
