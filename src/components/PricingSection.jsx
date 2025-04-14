@@ -91,7 +91,7 @@ export default function PricingSection() {
                 <div className="rounded-xl border-2 overflow-hidden shadow-lg bg-green-900 text-white rounded-r-lg">
                     <div className="bg-red-500 text-white text-xs font-bold px-3 py-1 absolute">Save ₹ 549/-</div>
                     <div className="px-6 py-8">
-                        <span className="flex flex-row pl-3 ml-[14rem] text-xl bg-green-300 rounded-xl py-1 pr-2 text-black  w-1/3"><AiTwotoneThunderbolt className=" mt-2 w-4 h-4 text-black" />Popular</span>
+                        <span className="flex flex-row pl-3 ml-[10rem] text-xl bg-green-300 rounded-xl py-1 pr-2 text-black  w-1/3"><AiTwotoneThunderbolt className=" mt-2 w-4 h-4 text-black" />Popular</span>
                         <h3 className="text-lg font-semibold mb-2">Annual</h3>
                         <div className="flex items-baseline mb-6">
                             <span className="text-3xl font-bold">₹ 1999</span>
