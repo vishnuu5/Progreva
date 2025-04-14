@@ -7,7 +7,7 @@ export default function HeroSection() {
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                 <div className="flex flex-col md:flex-row items-center ">
                     {/* Left Text Section */}
-                    <div className="w-full md:w-1/2 mb-10 md:mb-0 md:pr-10">
+                    <div className="w-full md:w-1/2 mb-10 md:mb-0 md:pr-10 mt-3">
                         <h1 className="text-3xl sm:text-5xl font-extrabold tracking-tight">
                             Ignite Your Mind, Win Big
                         </h1>
